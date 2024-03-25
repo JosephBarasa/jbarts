@@ -1,0 +1,74 @@
+hr {
+    margin-top:5%;
+}
+h4 {
+    text-align:center;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    margin-top:5%;
+}
+.navbar{
+    height:10%;
+}
+.navbar-icons {
+    display:flex;
+}
+.fa-brands-navbar {
+    padding:3%;
+    margin:10% auto auto 50%;
+}
+.fa-brands-navbar a {
+    color:black;
+}
+.instagram a:hover {
+    color:red;
+}
+.whatsapp a:hover {
+    color:green;
+}
+.facebook a:hover {
+    color:blue;
+}
+.twitter a:hover {
+    color:black;
+}
+#african-grace-page{
+    height:160vh;
+}
+#african-grace-page h3 {
+    margin:2%;
+    text-align:center;
+    text-transform: capitalize;
+}
+.african-grace-container{
+    margin:10% 0 0 10%;
+    width:100%;
+}
+.african-grace-container img {
+    float:left;
+}
+.african-grace-description{
+    margin-left:25%;
+}
+.btn {
+    width:9%;
+    margin:3% 0 0 3%;
+}
+/* african-graceII */
+.african-graceII-container{
+    margin:2% 0 0 10%;
+}
+.african-graceII-container img {
+    float:left;
+}
+.african-graceII-description h5 {
+    margin-left:25%;
+}
+.african-graceII-description p {
+    margin-left:25%;
+}
+
+.btn-bottom-african-woman-3 {
+    margin:5% 0 5% 45%;
+}
+

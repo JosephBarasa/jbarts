@@ -1,0 +1,42 @@
+h3 {
+    margin:9% 0 2% 45%;
+}
+.navbar{
+    height:10%;
+}
+.navbar-icons {
+    display:flex;
+}
+.fa-brands-navbar {
+    padding:3%;
+    margin:10% auto auto 50%;
+}
+.fa-brands-navbar a {
+    color:black;
+}
+.instagram a:hover {
+    color:red;
+}
+.whatsapp a:hover {
+    color:green;
+}
+.facebook a:hover {
+    color:blue;
+}
+.twitter a:hover {
+    color:black;
+}
+.row-view-more {
+    padding:5%;
+}
+
+.african-graceII-container img {
+    float : left;
+}
+.african-graceII-description {
+    padding-left:125px;
+}
+
+.btn-bottom-african-woman-3 {
+    margin:5% 0 5% 45%;
+}
